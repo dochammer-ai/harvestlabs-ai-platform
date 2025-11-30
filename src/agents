@@ -1,0 +1,6 @@
+Agent
+ ├── Persona (system prompt)
+ ├── Tools (actions and functions)
+ ├── Memory (ephemeral or persistent)
+ ├── Policies (guardrails)
+ └── Execution Loop (reasoning → acting → updating)
