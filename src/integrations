@@ -1,8 +1,0 @@
-| Integration     | Purpose                                   |
-| --------------- | ----------------------------------------- |
-| **GoHighLevel** | contacts, pipelines, tasks, emails, forms |
-| **Zapier**      | cross-app automations                     |
-| **n8n**         | node-based automation workflows           |
-| **Notion**      | workspace data, docs, tasks               |
-| **Stripe**      | billing + payments                        |
-| **Slack**       | notifications, commands                   |
